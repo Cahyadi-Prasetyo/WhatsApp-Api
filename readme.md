@@ -1,7 +1,3 @@
-Terima kasih! Berikut ini deskripsi proyek berdasarkan kode `whatsapp-api/index.js` yang kamu berikan:
-
----
-
 ## 📱 WhatsApp API dengan QR Code – Node.js + Baileys
 
 Proyek **WhatsApp API dengan Barcode (QR Code)** ini merupakan implementasi sederhana namun powerful dari integrasi WhatsApp menggunakan library [Baileys](https://github.com/WhiskeySockets/Baileys), sebuah API berbasis WhatsApp Web. Proyek ini memungkinkan pengguna untuk login WhatsApp via pemindaian QR Code dan mengirim pesan secara otomatis melalui endpoint HTTP.
