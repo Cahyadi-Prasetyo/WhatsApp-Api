@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-api",
+  "version": "1.0.0",
+  "description": "API WhatsApp sederhana menggunakan Baileys untuk integrasi Laravel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "express",
+    "laravel"
+  ],
+  "author": "Nama Kamu",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "express": "^5.1.0",
+    "pm2": "^6.0.8",
+    "qrcode": "^1.5.4"
+  }
+}
